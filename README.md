@@ -42,9 +42,10 @@ ar -rv libflexiconfig.a flexi_config.o
 
 Usage
 --
+
 It is possible to use this library in two ways:
-1. Import source and header files into your porject anc compile the code as part of the project
-2. Compile the code as static (or dynamic) library and link you program to it (see compilation section)
+1.  Import source and header files into your porject anc compile the code as part of the project
+2.  Compile the code as static (or dynamic) library and link you program to it (see compilation section)
 
 
 License
